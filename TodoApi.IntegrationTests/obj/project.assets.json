@@ -3892,11 +3892,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\TodoApi.IntegrationTests\\TodoApi.IntegrationTests.csproj",
+      "projectUniqueName": "D:\\Projects\\Todo-Api\\TodoApi.IntegrationTests\\TodoApi.IntegrationTests.csproj",
       "projectName": "TodoApi.IntegrationTests",
-      "projectPath": "D:\\Projects\\TodoApi.IntegrationTests\\TodoApi.IntegrationTests.csproj",
+      "projectPath": "D:\\Projects\\Todo-Api\\TodoApi.IntegrationTests\\TodoApi.IntegrationTests.csproj",
       "packagesPath": "C:\\Users\\akshay0057\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\TodoApi.IntegrationTests\\obj\\",
+      "outputPath": "D:\\Projects\\Todo-Api\\TodoApi.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3918,8 +3918,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Projects\\TodoApiProject\\TodoApiProject.csproj": {
-              "projectPath": "D:\\Projects\\TodoApiProject\\TodoApiProject.csproj"
+            "D:\\Projects\\Todo-Api\\TodoApiProject\\TodoApiProject.csproj": {
+              "projectPath": "D:\\Projects\\Todo-Api\\TodoApiProject\\TodoApiProject.csproj"
             }
           }
         }
