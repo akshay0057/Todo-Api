@@ -79,6 +79,8 @@ app.UseHttpsRedirection();
 
 // app.UseMiddleware<JwtMiddleware>(); // General we don't need this custom middleware, it's traditional way to do
 
+app.UseCors("AllowAngular");
+
 app.UseAuthentication();
 
 app.UseAuthorization();
